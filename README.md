@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @armanyan
 - 👀 I’m interested in node.js development
-- 🌱 I’m currently learning MEAN stack mean
+- 🌱 I’m currently learning MEAN stack
 - 💞️ I’m looking to collaborate on any interesting open source project
 - 📫 Contact email: arman.davidyan@protonmail.com
 
